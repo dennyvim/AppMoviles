@@ -1,0 +1,19 @@
+{
+  "name": "primera_actividad",
+  "version": "1.0.0",
+  "description": "Aplicaciones moviles primera actividad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Denny",
+    "Villalobos"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
